@@ -15,7 +15,7 @@ const PatientSearch = () => {
         </InputGroup>
         <div className="flex-grow-1 overflow-auto">
           <ListGroup>
-            <ListGroup.Item className="bg-light-blue my-2 rounded-lg">John Doe (Aadhar: XXXX-XXXX-1234)</ListGroup.Item>
+            <ListGroup.Item className="bg-light-blue my-2 rounded-lg">John Doae (Aadhar: XXXX-XXXX-1234)</ListGroup.Item>
             <ListGroup.Item className="bg-light-blue my-2 rounded-lg">Jane Smith (Aadhar: XXXX-XXXX-5678)</ListGroup.Item>
           </ListGroup>
         </div>
